@@ -1,3 +1,6 @@
+//uzyta w tym programie wersja algorytmu sortujacego metoda babelkowa
+//jest moja pierwsza interpretacja
+//w kolejnych wersjach skupilem sie nad zwiekszeniem wydajnosci algorytmu
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 50
