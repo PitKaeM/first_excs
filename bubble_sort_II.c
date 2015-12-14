@@ -1,3 +1,4 @@
+//nieco ulepszona wersja algorytmu z programu bubble_sort_I.c
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 50
