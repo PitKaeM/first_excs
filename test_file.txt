@@ -1,3 +1,4 @@
 PitKaeM has edited this line. yes
 KasperWAY edytuje te linie w pliku rownoczesnie.
 Edycja trzeciej linii przez dwie osoby. cos jeszcze
+Kolejna zmiana w celu zwiekszenia liczby commitow o jeden.
