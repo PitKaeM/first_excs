@@ -177,4 +177,5 @@ int main(void)
    }
    return 0;
 }
+//nie najtrudniejszy, ale najdluzszy moj program dotychczas
 
