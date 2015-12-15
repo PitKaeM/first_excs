@@ -1,3 +1,5 @@
+//program zawierajacy funkcje rekurencyjna ktora wypisuje kolejne
+//kroki potrzebne do prawidlowego ulozenia wiezy Hanoi
 #include<stdio.h>
 
 int nmbr=0;

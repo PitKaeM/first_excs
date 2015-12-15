@@ -1,7 +1,11 @@
 PitKaeM has edited this line. yes
 KasperWAY edytuje te linie w pliku rownoczesnie.
 Edycja trzeciej linii przez dwie osoby. cos jeszcze
+<<<<<<< HEAD
 Kolejny dopisany wiersz;
 liczba_commitow := liczba_commitow + 1;
 or
 liczba_commitow++; //C jest w tym aspekcie lepszy <3
+=======
+Kolejna zmiana w celu zwiekszenia liczby commitow o jeden.
+>>>>>>> remotes/origin/new_test_branch
