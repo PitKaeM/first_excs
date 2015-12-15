@@ -1,3 +1,9 @@
+//najwydajniejsza wersja algorytmu sortujacego metoda babelkowa,
+//jaka udalo mi sie skonstruowac
+//w mojej opinii zbudowany algorytm nie posiada juz opcji
+//do dalszej optymalizacji
+//program mysialby zostac oparty o bardziej wydajny algorytm sortujacy
+//aby osiagnac lepsze wyniki
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 50
